@@ -31,5 +31,6 @@ Open any of these urls in a browser
 
 ## Testing with postman
 
-You can import and use the collection file included in this repo: [FastAPI POC.postman_collection.json](./FastAPI POC.postman_collection.json)
+You can import and use the collection file included in this repo: 
+[FastAPI POC.postman_collection.json](fastapi_poc_postman_collection.json)
 
