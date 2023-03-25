@@ -12,15 +12,15 @@ docker compose up
 
 2. Install requirements
 
-```shell
-pip install -r requirements
-```
+    ```shell
+    pip install -r requirements.ct
+    ```
 
 3. Execute
 
-```shell
-uvicorn main:app --reload
-```
+    ```shell
+    uvicorn main:app --reload
+    ```
 
 ## View documentation 
 
