@@ -1,12 +1,12 @@
 # Fast API POC
 
-## Run with docker
+## Running with docker
 
 ```shell
 docker compose up
 ```
 
-## Run with python virtualenv
+## Running with python virtualenv
 
 1. Create virtualenv
 
@@ -29,7 +29,7 @@ Open any of these urls in a browser
 - http://0.0.0.0:8000/docs
 - http://0.0.0.0:8000/redoc
 
-## Test with postman
+## Testing with postman
 
-you import the collection file includen in this repo: [FastAPI POC.postman_collection.json](./FastAPI POC.postman_collection.json)
+You can import and use the collection file included in this repo: [FastAPI POC.postman_collection.json](./FastAPI POC.postman_collection.json)
 
